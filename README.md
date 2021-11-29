@@ -1,6 +1,6 @@
-# Petlife-Documentation
+﻿# Petlife-Documentation
 
-- Modelos, métodos e técnicas da engenharia de soft;
+- Modelos, métodos e técnicas da engenharia de software;
 - Gestão e qualidade de software
 
 Projeto 
@@ -25,3 +25,9 @@ Critério de Qualidade
 Estratégia de teste:
 - Elaboração do plano de teste
 - Criação de roteiros de testes
+
+
+Integrantes:
+Alice Lúcia da Silva - RA 821157071
+Catarina Manzieri - RA 821135645
+Helio Haruo Takamori Sugano - RA 821137022
