@@ -29,7 +29,5 @@ Estratégia de teste:
 
 Integrantes:
 Alice Lúcia da Silva - RA 821157071
-
 Catarina Manzieri - RA 821135645
-
 Helio Haruo Takamori Sugano - RA 821137022
