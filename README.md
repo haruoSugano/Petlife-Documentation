@@ -1,7 +1,7 @@
 ﻿# Petlife-Documentation
 
 - Modelos, métodos e técnicas da engenharia de software;
-- Gestão e qualidade de software
+- Gestão e qualidade de software.
 
 Projeto 
 
@@ -14,17 +14,17 @@ Para alcançar este resultado foram realizadas diversas pesquisas dentro da áre
 Na programação, foi utilizada a linguagem JavaScript(Backend Ambiente de execução NodeJS e Frontend Biblioteca ReactJs) e o banco de dados MongoDB, como também a construção de diagramas para a facilitar a programação, definindo o modelo de processo no qual foi utilizado o modelo SCRUM. Já em seu desenvolvimento foi utilizada a Arquitetura em camadas, e este projeto possui um padrão MVC, como também seu manuseio será fácil e intuitivo.
 
 Critério de Qualidade
-- Funcionalidade
-- Confiabilidade
-- Usabilidade
-- Portabilidade
-- Manutenibilidade
-- Métrica utilizada: Ponto de função
-- Controle de versão
+- Funcionalidade;
+- Confiabilidade;
+- Usabilidade;
+- Portabilidade;
+- Manutenibilidade;
+- Métrica utilizada: Ponto de função;
+- Controle de versão.
 
 Estratégia de teste:
-- Elaboração do plano de teste
-- Criação de roteiros de testes
+- Elaboração do plano de teste;
+- Criação de roteiros de testes.
 
 
 Integrantes:
